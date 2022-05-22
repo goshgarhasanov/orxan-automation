@@ -1,0 +1,20 @@
+{
+    "fname": "FirstName",
+    "sname": "Surname",
+    "email": "email",
+    "phone": "039848483",
+    "ctship": "Uzbekistan",
+    "passportNumber":"PASSPORTNUMBER",
+    "city":"s2",
+    "collectBtn": 1,
+    "rightBtn": 0,
+    "submitBtn":1,
+    "autoStarted": 0,
+    "browserResolution": 100,
+    "siteUrl": "https://rezerwacje.lodzkie.eu/?lang=en#/?s=",
+    "webdriverYazilishQaydasi": {
+        "Microsoft-Edge": 1,
+        "Google-Chrome": 2
+    },
+    "webdriver": 1
+  }

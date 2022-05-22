@@ -1,0 +1,15 @@
+{
+    "fname": "FirstName",
+    "sname": "Surname",
+    "email": "EMAIL",
+    "phone": "039848483",
+    "ctship": "Uzbekistan",
+    "passportNumber":"PASSPORTNUMBER",
+    "submitBtn":0,
+    "browserResolution": 100,
+    "webdriverYazilishQaydasi": {
+        "Microsoft-Edge": 1,
+        "Google-Chrome": 2
+    },
+    "webdriver": 1
+  }
